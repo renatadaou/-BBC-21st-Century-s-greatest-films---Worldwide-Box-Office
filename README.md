@@ -10,3 +10,5 @@ The encountered challenges can be summarized as follows:
 1. Formulating a structured database by formatting the initial page.
 2. Enhancing the dataset with additional relevant information from Box Office Mojo, considering potential disparities in movie availability between the BBC list and the secondary source.
 3. Using Mapbox GL JS (JavaScript library/API) to create an interactive map that effectively conveyed the previously gathered information in a clear and easily comprehensible manner for the audience.
+
+4. Final: https://renatadaou.github.io/-BBC-21st-Century-s-greatest-films---Worldwide-Box-Office/
